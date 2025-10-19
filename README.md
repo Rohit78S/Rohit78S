@@ -1,7 +1,9 @@
-<div style="position: relative; display: inline-block; width: 100%;">
-  <img src="https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block;" alt="Header">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.7);">
-    👋 Hi, I'm Rohit
+<div style="position: relative; display: inline-block; width: 100%; margin-bottom: 30px;">
+  <img src="https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block; height: auto;" alt="Header">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
+    <h1 style="color: white; font-size: 56px; font-weight: bold; margin: 0; text-shadow: 3px 3px 10px rgba(0,0,0,0.8); letter-spacing: 2px;">
+      👋 Hi, I'm Rohit
+    </h1>
   </div>
 </div>
 
