@@ -30,8 +30,6 @@ I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to b
 - 🔥 Passion for solving complex problems
 - 🚀 Love for cutting-edge technology
 - 📚 Continuous learning mindset
-- 🤝 Collaborative spirit
-- 🎯 Goal-oriented approach
 
 ---
 
@@ -64,30 +62,6 @@ I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to b
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohit78s&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&currStreakNum=00ff88&currStreakLabel=00d4ff)
 
 </div>
-
----
-
-## 💼 Featured Projects
-
-### 🧠 **Neural Network from Scratch**
-Building complete neural network implementations using only NumPy. Understanding every layer, activation function, and optimization technique.
-- Feedforward networks for classification
-- Backpropagation implementation
-- Custom loss functions
-
-### 📊 **Data Analysis & Visualization**
-Comprehensive data science projects involving:
-- Random distribution analysis (11+ distributions)
-- Statistical computations
-- Data manipulation with NumPy
-- Advanced visualization techniques
-
-### 🌐 **Web Development Portfolio**
-Interactive web projects showcasing:
-- Responsive design principles
-- Modern HTML5 semantics
-- Advanced CSS styling
-- JavaScript interactivity
 
 ---
 
