@@ -13,9 +13,7 @@
       </p>
     </div>
   </div>
-  <style>
-  
----
+
 
 ## 🎯 About Me
 
