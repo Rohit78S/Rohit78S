@@ -13,7 +13,21 @@
       </p>
     </div>
   </div>
+  <style>
+    @keyframes slideInFromTop {
+      0% {
+        opacity: 0;
+        transform: translate(-50%, -80%) scale(0.9);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+      }
+    }
+  </style>
+</div>
 
+---
 
 ## 🎯 About Me
 
@@ -52,6 +66,7 @@ I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to b
   <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
 </p>
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -61,75 +76,53 @@ I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohit78s&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohit78s&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&currStreakNum=00ff88&currStreakLabel=00d4ff)
-
 </div>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🧠 **Neural Network from Scratch**
+### 🧠 Neural Network from Scratch
 Building complete neural network implementations using only NumPy. Understanding every layer, activation function, and optimization technique.
 - Feedforward networks for classification
 - Backpropagation implementation
 - Custom loss functions
 
-### 📊 **Data Analysis & Visualization**
+### 📊 Data Analysis & Visualization
 Comprehensive data science projects involving:
-- Random distribution analysis (11+ distributions)
+- Random distribution analysis
 - Statistical computations
 - Data manipulation with NumPy
-- Advanced visualization techniques
+- Visualization techniques
 
-### 🌐 **Web Development Portfolio**
+### 🌐 Web Development Portfolio
 Interactive web projects showcasing:
 - Responsive design principles
-- Modern HTML5 semantics
-- Advanced CSS styling
+- HTML5 semantics
+- CSS styling
 - JavaScript interactivity
 
 ---
 
 ## 🎯 Learning Path & Milestones
 
-<table align="center">
-  <tr>
-    <td width="25%" align="center">
-      <h3>🐍 Python Basics</h3>
-      <p>✅ Completed</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>📊 NumPy & Data</h3>
-      <p>✅ In Progress</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>🧠 Neural Networks</h3>
-      <p>✅ Learning</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>🚀 Advanced ML</h3>
-      <p>⏳ Upcoming</p>
-    </td>
-  </tr>
-</table>
+| Status | Topic |
+|--------|-------|
+| ✅ Completed | Python Basics |
+| ✅ In Progress | NumPy & Data Science |
+| ✅ Learning | Neural Networks |
+| ⏳ Upcoming | Advanced ML |
 
 ---
 
 ## 📈 Statistics & Achievements
 
-<div align="center">
-
 | Metric | Value |
 |--------|-------|
-| 🏢 **Repositories** | 9+ |
-| 💾 **Total Commits** | 33+ |
-| 📚 **Projects Completed** | Multiple |
-| 🎓 **Concepts Mastered** | 50+ |
-| ⭐ **Lines of Code** | 5000+ |
-| 📖 **Topics Explored** | Deep Learning, ML, Data Science |
-
-</div>
+| 🏢 Repositories | 9+ |
+| 💾 Total Commits | 33+ |
+| 📚 Projects Completed | Multiple |
+| 🎓 Concepts Mastered | 50+ |
 
 ---
 
@@ -137,13 +130,10 @@ Interactive web projects showcasing:
 
 <p align="center">
   <a href="https://instagram.com/rohit_samanta10" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/rohit78s" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -156,60 +146,31 @@ class RohitJourney:
     def __init__(self):
         self.current_focus = "Deep Learning & Neural Networks"
         self.learning = [
-            "Advanced Neural Network Architectures",
+            "Neural Network Architectures",
             "Data Science with NumPy & Pandas",
-            "Full Stack Web Development"
+            "Web Development"
         ]
         self.interests = [
             "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Natural Language Processing"
+            "Machine Learning"
         ]
         self.goal = "Become an Expert AI/ML Engineer"
-        self.passion = "Building intelligent systems that matter"
-    
-    def learning_daily(self):
-        return "Exploring, Coding, Learning, Growing 🚀"
 ```
 
 ---
 
 ## 🎖️ My Mantra
 
-> **"Every line of code is a step towards mastery. Every error is a lesson. Every project is a milestone. Keep coding, keep learning, keep growing!"** 🚀
-
----
-
-## 💡 Quick Facts About Me
-
-- 🧠 Passionate about understanding how Neural Networks think
-- 📚 Believer in continuous learning and skill development
-- 🎯 Goal-driven and detail-oriented
-- 🤝 Love collaborating and sharing knowledge
-- 💻 Clean code advocate
-- 🌍 Aspiring to contribute to AI revolution
-- ☕ Coffee-powered developer (probably ☕☕☕)
-- 🎮 Gamer in my free time
-
----
-
-## 📝 Recent Blogs & Articles
-
-Coming soon! I'll be sharing my learning journey through blog posts and tutorials.
+"Every line of code is a step towards mastery. Every error is a lesson. Every project is a milestone. Keep coding, keep learning, keep growing!" 🚀
 
 ---
 
 <div align="center">
 
-### 🙏 Thank You for Visiting!
+**If you find my work interesting, please consider giving it a star!**
 
-**If you find my work interesting, please consider giving it a ⭐ and following me for more updates!**
+**Let's build the future of AI together!** 🚀
 
-**Let's build the future of AI together!** 🚀✨
-
----
-
-**Made with ❤️ by Rohit | Always Learning, Always Growing**
+Made with ❤️ by Rohit | Always Learning, Always Growing
 
 </div>
