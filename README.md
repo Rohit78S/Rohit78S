@@ -1,12 +1,52 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">Deep Learning / Neural Networks(Machine Learning)</h3>
+# Hi 👋, I'm Rohit
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rohit_samanta10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_samanta10" height="30" width="40" /></a>
-</p>
+### Deep Learning / Neural Networks (Machine Learning)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit78s&show_icons=true&locale=en&layout=compact" alt="rohit78s" /></p>
+## 🤝 Connect with me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rohit_samanta10)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit78s)
+
+---
+
+## 💻 Languages and Tools:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## 📊 My Skills:
+
+- **Python** - NumPy, Data Analysis, Machine Learning
+- **Deep Learning** - Neural Networks, Artificial Intelligence
+- **Web Development** - HTML, CSS, JavaScript
+- **Data Science** - Statistics, Random Distributions, Array Operations
+
+---
+
+## 📈 GitHub Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit78s&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rohit78s&layout=compact&theme=dark)
+
+---
+
+## 📌 About Me:
+
+Learning **Deep Learning** and **Machine Learning** using Python and NumPy. Passionate about building Neural Networks and exploring AI. 
+
+Currently working on:
+- 🧠 Neural Network projects
+- 📊 Data analysis with NumPy
+- 🌐 Web development basics
+
+---
+
+**Let's connect and learn together!** 🚀
