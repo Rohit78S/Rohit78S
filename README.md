@@ -175,12 +175,6 @@ class RohitJourney:
 
 ---
 
-## 🎖️ My Mantra
-
-> **"Every line of code is a step towards mastery. Every error is a lesson. Every project is a milestone. Keep coding, keep learning, keep growing!"** 🚀
-
----
-
 ## 💡 Quick Facts About Me
 
 - 🧠 Passionate about understanding how Neural Networks think
@@ -188,15 +182,6 @@ class RohitJourney:
 - 🎯 Goal-driven and detail-oriented
 - 🤝 Love collaborating and sharing knowledge
 - 💻 Clean code advocate
-- 🌍 Aspiring to contribute to AI revolution
-- ☕ Coffee-powered developer (probably ☕☕☕)
-- 🎮 Gamer in my free time
-
----
-
-## 📝 Recent Blogs & Articles
-
-Coming soon! I'll be sharing my learning journey through blog posts and tutorials.
 
 ---
 
