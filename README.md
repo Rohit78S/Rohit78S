@@ -31,8 +31,6 @@
 
 ## 🎯 About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" alt="Developer">
-
 I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to building intelligent systems that can solve real-world problems. With a strong foundation in **Python**, **Machine Learning**, and **Neural Networks**, I'm on a mission to master the art of **Artificial Intelligence**.
 
 **🎓 My Journey:**
@@ -76,46 +74,6 @@ I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to b
   <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-
----
-
-## 🎓 Core Competencies
-
-### **Deep Learning & Neural Networks**
-```
-✅ Feedforward Neural Networks (FNN)
-✅ Backpropagation Algorithm
-✅ Activation Functions (Sigmoid, ReLU, Softmax)
-✅ Loss Functions & Optimization
-✅ Classification & Regression
-✅ Model Architecture Design
-✅ Forward & Backward Propagation
-✅ Weight Initialization Techniques
-```
-
-### **Machine Learning & Data Science**
-```
-✅ Supervised Learning Techniques
-✅ Unsupervised Learning Methods
-✅ Statistical Analysis
-✅ Data Preprocessing & Feature Engineering
-✅ Random Distributions (Binomial, Normal, Poisson, etc.)
-✅ Array Operations & Manipulation
-✅ Data Visualization & EDA
-✅ Model Evaluation & Metrics
-```
-
-### **Programming & Development**
-```
-✅ Object-Oriented Programming (OOP)
-✅ Functional Programming Concepts
-✅ Algorithm Design & Implementation
-✅ Problem-Solving Strategies
-✅ Code Optimization
-✅ Version Control (Git/GitHub)
-✅ Web Development Basics
-✅ RESTful API Concepts
-```
 
 ---
 
@@ -272,14 +230,10 @@ Coming soon! I'll be sharing my learning journey through blog posts and tutorial
 
 **If you find my work interesting, please consider giving it a ⭐ and following me for more updates!**
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrng815yl/giphy.gif" width="25px" alt="Waving Hand">
-
 **Let's build the future of AI together!** 🚀✨
 
 ---
 
 **Made with ❤️ by Rohit | Always Learning, Always Growing**
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=rohit78s)
 
 </div>
