@@ -1,59 +1,285 @@
-<div style="position: relative; display: inline-block; width: 100%; margin-bottom: 30px;">
-  <img src="https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block; height: auto;" alt="Header">
+<div style="position: relative; display: inline-block; width: 100%; margin-bottom: 40px;">
+  <img src="https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block; height: auto; border-radius: 15px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4), 0 0 60px rgba(0, 150, 255, 0.3);" alt="Header">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
-    <h1 style="color: white; font-size: 56px; font-weight: bold; margin: 0; text-shadow: 3px 3px 10px rgba(0,0,0,0.8); letter-spacing: 2px;">
-      👋 Hi, I'm Rohit
-    </h1>
+    <div style="animation: slideInFromTop 1.2s cubic-bezier(0.34, 1.56, 0.64, 1);">
+      <h1 style="color: #ffffff; font-size: 80px; font-weight: 900; margin: 0; text-shadow: 8px 8px 25px rgba(0, 0, 0, 0.95), 0 0 50px rgba(0, 200, 255, 0.7), -8px -8px 25px rgba(0, 100, 150, 0.3); letter-spacing: 4px; margin-bottom: 15px; text-transform: uppercase;">
+        👋 Hey, I'm Rohit
+      </h1>
+      <p style="color: #00d4ff; font-size: 28px; font-weight: 700; text-shadow: 4px 4px 15px rgba(0, 0, 0, 0.9), 0 0 30px rgba(0, 212, 255, 0.6); margin: 0; letter-spacing: 2px;">
+        🧠 Deep Learning Engineer
+      </p>
+      <p style="color: #00ff88; font-size: 18px; font-weight: 500; text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8); margin: 8px 0 0 0; letter-spacing: 1px;">
+        ML | AI | Neural Networks
+      </p>
+    </div>
   </div>
+  <style>
+    @keyframes slideInFromTop {
+      0% {
+        opacity: 0;
+        transform: translate(-50%, -80%) scale(0.9);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+      }
+    }
+  </style>
 </div>
 
-### Deep Learning / Neural Networks (Machine Learning)
+---
+
+## 🎯 About Me
+
+<img align="right" width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqKSaUv/giphy.gif" alt="Developer">
+
+I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to building intelligent systems that can solve real-world problems. With a strong foundation in **Python**, **Machine Learning**, and **Neural Networks**, I'm on a mission to master the art of **Artificial Intelligence**.
+
+**🎓 My Journey:**
+- Started with Python fundamentals
+- Dove deep into NumPy and Data Science
+- Building Neural Networks from scratch
+- Exploring the frontiers of Deep Learning
+- Contributing to the AI community
+
+**💪 What Drives Me:**
+- 🔥 Passion for solving complex problems
+- 🚀 Love for cutting-edge technology
+- 📚 Continuous learning mindset
+- 🤝 Collaborative spirit
+- 🎯 Goal-oriented approach
 
 ---
 
-## 🤝 Connect with me:
+## 🛠️ Tech Arsenal
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rohit_samanta10)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit78s)
+### **Languages & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
----
+### **Data Science & ML Libraries**
+<p align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
+</p>
 
-## 💻 Languages and Tools:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 📊 My Skills:
-
-- **Python** - NumPy, Data Analysis, Machine Learning
-- **Deep Learning** - Neural Networks, Artificial Intelligence
-- **Web Development** - HTML, CSS, JavaScript
-- **Data Science** - Statistics, Random Distributions, Array Operations
-
----
-
-## 📈 GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit78s&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rohit78s&layout=compact&theme=dark)
+### **Tools & Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
 
-## 📌 About Me:
+## 🎓 Core Competencies
 
-Learning **Deep Learning** and **Machine Learning** using Python and NumPy. Passionate about building Neural Networks and exploring AI.
+### **Deep Learning & Neural Networks**
+```
+✅ Feedforward Neural Networks (FNN)
+✅ Backpropagation Algorithm
+✅ Activation Functions (Sigmoid, ReLU, Softmax)
+✅ Loss Functions & Optimization
+✅ Classification & Regression
+✅ Model Architecture Design
+✅ Forward & Backward Propagation
+✅ Weight Initialization Techniques
+```
 
-Currently working on:
-- 🧠 Neural Network projects
-- 📊 Data analysis with NumPy
-- 🌐 Web development basics
+### **Machine Learning & Data Science**
+```
+✅ Supervised Learning Techniques
+✅ Unsupervised Learning Methods
+✅ Statistical Analysis
+✅ Data Preprocessing & Feature Engineering
+✅ Random Distributions (Binomial, Normal, Poisson, etc.)
+✅ Array Operations & Manipulation
+✅ Data Visualization & EDA
+✅ Model Evaluation & Metrics
+```
+
+### **Programming & Development**
+```
+✅ Object-Oriented Programming (OOP)
+✅ Functional Programming Concepts
+✅ Algorithm Design & Implementation
+✅ Problem-Solving Strategies
+✅ Code Optimization
+✅ Version Control (Git/GitHub)
+✅ Web Development Basics
+✅ RESTful API Concepts
+```
 
 ---
 
-**Let's connect and learn together!** 🚀
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit78s&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohit78s&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohit78s&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&currStreakNum=00ff88&currStreakLabel=00d4ff)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🧠 **Neural Network from Scratch**
+Building complete neural network implementations using only NumPy. Understanding every layer, activation function, and optimization technique.
+- Feedforward networks for classification
+- Backpropagation implementation
+- Custom loss functions
+
+### 📊 **Data Analysis & Visualization**
+Comprehensive data science projects involving:
+- Random distribution analysis (11+ distributions)
+- Statistical computations
+- Data manipulation with NumPy
+- Advanced visualization techniques
+
+### 🌐 **Web Development Portfolio**
+Interactive web projects showcasing:
+- Responsive design principles
+- Modern HTML5 semantics
+- Advanced CSS styling
+- JavaScript interactivity
+
+---
+
+## 🎯 Learning Path & Milestones
+
+<table align="center">
+  <tr>
+    <td width="25%" align="center">
+      <h3>🐍 Python Basics</h3>
+      <p>✅ Completed</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>📊 NumPy & Data</h3>
+      <p>✅ In Progress</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>🧠 Neural Networks</h3>
+      <p>✅ Learning</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>🚀 Advanced ML</h3>
+      <p>⏳ Upcoming</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Statistics & Achievements
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🏢 **Repositories** | 9+ |
+| 💾 **Total Commits** | 33+ |
+| 📚 **Projects Completed** | Multiple |
+| 🎓 **Concepts Mastered** | 50+ |
+| ⭐ **Lines of Code** | 5000+ |
+| 📖 **Topics Explored** | Deep Learning, ML, Data Science |
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://instagram.com/rohit_samanta10" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px;">
+  </a>
+  <a href="https://github.com/rohit78s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;">
+  </a>
+</p>
+
+---
+
+## 🌟 What I'm Currently Doing
+
+```python
+class RohitJourney:
+    def __init__(self):
+        self.current_focus = "Deep Learning & Neural Networks"
+        self.learning = [
+            "Advanced Neural Network Architectures",
+            "Data Science with NumPy & Pandas",
+            "Full Stack Web Development"
+        ]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Natural Language Processing"
+        ]
+        self.goal = "Become an Expert AI/ML Engineer"
+        self.passion = "Building intelligent systems that matter"
+    
+    def learning_daily(self):
+        return "Exploring, Coding, Learning, Growing 🚀"
+```
+
+---
+
+## 🎖️ My Mantra
+
+> **"Every line of code is a step towards mastery. Every error is a lesson. Every project is a milestone. Keep coding, keep learning, keep growing!"** 🚀
+
+---
+
+## 💡 Quick Facts About Me
+
+- 🧠 Passionate about understanding how Neural Networks think
+- 📚 Believer in continuous learning and skill development
+- 🎯 Goal-driven and detail-oriented
+- 🤝 Love collaborating and sharing knowledge
+- 💻 Clean code advocate
+- 🌍 Aspiring to contribute to AI revolution
+- ☕ Coffee-powered developer (probably ☕☕☕)
+- 🎮 Gamer in my free time
+
+---
+
+## 📝 Recent Blogs & Articles
+
+Coming soon! I'll be sharing my learning journey through blog posts and tutorials.
+
+---
+
+<div align="center">
+
+### 🙏 Thank You for Visiting!
+
+**If you find my work interesting, please consider giving it a ⭐ and following me for more updates!**
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrng815yl/giphy.gif" width="25px" alt="Waving Hand">
+
+**Let's build the future of AI together!** 🚀✨
+
+---
+
+**Made with ❤️ by Rohit | Always Learning, Always Growing**
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=rohit78s)
+
+</div>
