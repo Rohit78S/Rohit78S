@@ -1,5 +1,5 @@
 <div style="position: relative; display: inline-block; width: 100%; margin-bottom: 30px;">
-  <img src="https://i.pinimg.com/originals/3e/1a/8d/3e1a8de85eda4b7f38bee4b4b4da4c0b.gif](https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block; height: auto;" alt="Header">
+  <img src="https://i.pinimg.com/originals/3e/1a/8d/3e1a8de85eda4b7f38bee4b4b4da4c0b.gif" style="width: 100%; display: block; height: auto;" alt="Header">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
     <h1 style="color: white; font-size: 56px; font-weight: bold; margin: 0; text-shadow: 3px 3px 10px rgba(0,0,0,0.8); letter-spacing: 2px;">
       👋 Hi, I'm Rohit
@@ -30,10 +30,10 @@
 
 ## 📊 My Skills:
 
-- *Python* - NumPy, Data Analysis, Machine Learning
-- *Deep Learning* - Neural Networks, Artificial Intelligence
-- *Web Development* - HTML, CSS, JavaScript
-- *Data Science* - Statistics, Random Distributions, Array Operations
+- **Python** - NumPy, Data Analysis, Machine Learning
+- **Deep Learning** - Neural Networks, Artificial Intelligence
+- **Web Development** - HTML, CSS, JavaScript
+- **Data Science** - Statistics, Random Distributions, Array Operations
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 📌 About Me:
 
-Learning *Deep Learning* and *Machine Learning* using Python and NumPy. Passionate about building Neural Networks and exploring AI. 
+Learning **Deep Learning** and **Machine Learning** using Python and NumPy. Passionate about building Neural Networks and exploring AI.
 
 Currently working on:
 - 🧠 Neural Network projects
@@ -56,4 +56,4 @@ Currently working on:
 
 ---
 
-*Let's connect and learn together!* 🚀
+**Let's connect and learn together!** 🚀
