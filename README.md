@@ -19,20 +19,6 @@
 
 I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to building intelligent systems that can solve real-world problems. With a strong foundation in **Python**, **Machine Learning**, and **Neural Networks**, I'm on a mission to master the art of **Artificial Intelligence**.
 
-**🎓 My Journey:**
-- Started with Python fundamentals
-- Dove deep into NumPy and Data Science
-- Building Neural Networks from scratch
-- Exploring the frontiers of Deep Learning
-- Contributing to the AI community
-
-**💪 What Drives Me:**
-- 🔥 Passion for solving complex problems
-- 🚀 Love for cutting-edge technology
-- 📚 Continuous learning mindset
-
----
-
 ## 💻 Tech Stack
 
 ### **Languages & Frameworks**
@@ -146,16 +132,6 @@ class RohitJourney:
     def learning_daily(self):
         return "Exploring, Coding, Learning, Growing 🚀"
 ```
-
----
-
-## 💡 Quick Facts About Me
-
-- 🧠 Passionate about understanding how Neural Networks think
-- 📚 Believer in continuous learning and skill development
-- 🎯 Goal-driven and detail-oriented
-- 🤝 Love collaborating and sharing knowledge
-- 💻 Clean code advocate
 
 ---
 
