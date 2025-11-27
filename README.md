@@ -75,6 +75,23 @@ My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level 
 
 ---
 
+## 📈 Statistics & Achievements
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🏢 **Repositories** | 9+ |
+| 💾 **Total Commits** | 168+ |
+| 📚 **Projects Completed** | Multiple |
+| 🎓 **Concepts Mastered** | 50+ |
+| ⭐ **Lines of Code** | 10,000+ |
+| 📖 **Topics Explored** | Deep Learning, ML, Systems |
+
+</div>
+
+---
+
 ## 🌟 The Code Behind The Mind
 
 ```python
