@@ -28,7 +28,7 @@ My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level 
 
 🔭 **Current Research Focus:**
 * **Gap Optimizer:** Invented a novel "Closed Loop" optimizer using Control Theory (Banking & AUC) to dynamically adjust learning rates.
-* **Math-First AI:** Building CNNs, Transposed Convolutional Layer and DNNs and RNN and transformer and advanced feedback also sophisticated system mechanism loop using only **NumPy** to master Backpropagation logic.
+* **Math-First AI:** Building CNNs, Transposed Convolutional Layer and DNNs and RNN and transformer and advanced feedback also sophisticated system mechanism loop using only **NumPy** to master AI/ML Deep Learning logic.
 
 ---
 
