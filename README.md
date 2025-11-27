@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I am a **Computer Science (Data Science)** student with a focus on **AI Research** and **Systems Engineering**. Unlike traditional developers, I focus on building AI from **First Principles**—coding optimizers, layers, and architectures from scratch to understand the math behind the machine.
+I am a **Computer Science (Data Science)** student with a focus on **AI Research** and **Systems Engineering**(sophisticated system mechanism loop). Unlike traditional developers, I focus on building AI from **First Principles**—coding optimizers, layers, and architectures from scratch to understand the math behind the machine.
 
 My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level Performance (C++, Rust, Zig)**.
 
