@@ -67,12 +67,11 @@ My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit78S&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit78S&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rohit78S&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)
 
 </div>
-
 ---
 
 ## 📈 Statistics & Achievements
