@@ -1,5 +1,5 @@
 <div style="position: relative; display: inline-block; width: 100%; margin-bottom: 40px;">
-  <img src="https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block; height: auto; border-radius: 15px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4), 0 0 60px rgba(0, 150, 255, 0.3);" alt="Header">
+  style="width: 100%; display: block; height: auto; border-radius: 15px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4), 0 0 60px rgba(0, 150, 255, 0.3);" alt="Header">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
     <div style="animation: slideInFromTop 1.2s cubic-bezier(0.34, 1.56, 0.64, 1);">
       <h1 style="color: #ffffff; font-size: 80px; font-weight: 900; margin: 0; text-shadow: 8px 8px 25px rgba(0, 0, 0, 0.95), 0 0 50px rgba(0, 200, 255, 0.7), -8px -8px 25px rgba(0, 100, 150, 0.3); letter-spacing: 4px; margin-bottom: 15px; text-transform: uppercase;">
