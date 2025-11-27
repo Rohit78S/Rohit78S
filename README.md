@@ -1,40 +1,68 @@
 <div style="position: relative; display: inline-block; width: 100%; margin-bottom: 40px;">
+  <img src="https://i.pinimg.com/736x/0c/a1/ab/0ca1ab3a6b8ef0d6cba49d7ec8970b16.jpg" style="width: 100%; display: block; height: auto; border-radius: 15px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4), 0 0 60px rgba(0, 150, 255, 0.3);" alt="Header">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
     <div style="animation: slideInFromTop 1.2s cubic-bezier(0.34, 1.56, 0.64, 1);">
       <h1 style="color: #ffffff; font-size: 80px; font-weight: 900; margin: 0; text-shadow: 8px 8px 25px rgba(0, 0, 0, 0.95), 0 0 50px rgba(0, 200, 255, 0.7), -8px -8px 25px rgba(0, 100, 150, 0.3); letter-spacing: 4px; margin-bottom: 15px; text-transform: uppercase;">
         👋 Hey, I'm Rohit
       </h1>
       <p style="color: #00d4ff; font-size: 28px; font-weight: 700; text-shadow: 4px 4px 15px rgba(0, 0, 0, 0.9), 0 0 30px rgba(0, 212, 255, 0.6); margin: 0; letter-spacing: 2px;">
-        🧠 Deep Learning Engineer
+        🧠 AI Research & Systems Engineer
       </p>
       <p style="color: #00ff88; font-size: 18px; font-weight: 500; text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8); margin: 8px 0 0 0; letter-spacing: 1px;">
-        ML | AI | Neural Networks
+        Building the Next Generation of Neural Architectures
       </p>
     </div>
- 
-
+  </div>
+</div>
 
 ## 🎯 About Me
 
-I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to building intelligent systems that can solve real-world problems. With a strong foundation in **Python**, **Machine Learning**, and **Neural Networks**, I'm on a mission to master the art of **Artificial Intelligence**.
+I am a **Computer Science (Data Science)** student with a focus on **AI Research** and **Systems Engineering**. Unlike traditional developers, I focus on building AI from **First Principles**—coding optimizers, layers, and architectures from scratch to understand the math behind the machine.
+
+My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level Performance (C++, Rust, Zig)**.
+
+---
+
+## 🔬 Research & Innovations
+
+> **"I don't just use models; I build the engines that run them."**
+
+🔭 **Current Research Focus:**
+* **Gap Optimizer:** Invented a novel "Closed Loop" optimizer using Control Theory (Banking & AUC) to dynamically adjust learning rates.
+* **Math-First AI:** Building CNNs and DNNs using only **NumPy** to master Backpropagation logic.
+
+---
 
 ## 💻 Tech Stack
 
-### **Languages & Frameworks**
+### **🚀 Systems & High-Performance Computing**
+*Building the engine.*
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</p>
+
+### **🧠 AI & Data Science**
+*The Core Logic.*
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### **Data Science & ML Libraries**
-<p align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
 </p>
 
+### **🌐 Web & Database (Deployment)**
+*Delivering the models.*
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -44,106 +72,23 @@ I'm a passionate **Deep Learning Engineer** and **AI Enthusiast** dedicated to b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohit78s&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohit78s&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&currStreakNum=00ff88&currStreakLabel=00d4ff)
-
 </div>
 
 ---
 
-## 🎯 Learning Path & Milestones
-
-<table align="center">
-  <tr>
-    <td width="25%" align="center">
-      <h3>🐍 Python Basics</h3>
-      <p>✅ Completed</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>📊 NumPy & Data</h3>
-      <p>✅ In Progress</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>🧠 Neural Networks</h3>
-      <p>✅ Learning</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>🚀 Advanced ML</h3>
-      <p>⏳ Upcoming</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Statistics & Achievements
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🏢 **Repositories** | 9+ |
-| 💾 **Total Commits** | 33+ |
-| 📚 **Projects Completed** | Multiple |
-| 🎓 **Concepts Mastered** | 50+ |
-| ⭐ **Lines of Code** | 5000+ |
-| 📖 **Topics Explored** | Deep Learning, ML, Data Science |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://instagram.com/rohit_samanta10" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px;">
-  </a>
-  <a href="https://github.com/rohit78s" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;">
-  </a>
-</p>
-
----
-
-## 🌟 What I'm Currently Doing
+## 🌟 The Code Behind The Mind
 
 ```python
-class RohitJourney:
+class RohitResearch:
     def __init__(self):
-        self.current_focus = "Deep Learning & Neural Networks"
-        self.learning = [
-            "Advanced Neural Network Architectures",
-            "Data Science with NumPy & Pandas",
-            "Full Stack Web Development"
-        ]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Natural Language Processing"
-        ]
-        self.goal = "Become an Expert AI/ML Engineer"
-        self.passion = "Building intelligent systems that matter"
+        self.role = "AI Research Engineer"
+        
+        self.systems_languages = ["C++", "Rust", "Zig", "Go", "Java"]
+        self.ai_stack = ["Python", "NumPy", "TensorFlow", "Math"]
+        self.web_stack = ["React", "SQL", "Flask"]
+        
+        self.current_obsession = "Control Theory in Deep Learning Optimizers"
     
-    def learning_daily(self):
-        return "Exploring, Coding, Learning, Growing 🚀"
-```
-
----
-
-<div align="center">
-
-### 🙏 Thank You for Visiting!
-
-**If you find my work interesting, please consider giving it a ⭐ and following me for more updates!**
-
-**Let's build the future of AI together!** 🚀✨
-
----
-
-**Made with ❤️ by Rohit | Always Learning, Always Growing**
-
-</div>
+    def daily_goal(self):
+        # I don't just use libraries, I rewrite them.
+        return "Inventing algorithms that don't exist yet."
