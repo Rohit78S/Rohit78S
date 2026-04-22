@@ -28,9 +28,7 @@ My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level 
 > **"I don't just use models; I build the engines that run them."**
 
 🔭 **Current Research Focus:**
-* **Gap Optimizer:** Invented a novel "Closed Loop" optimizer using Control Theory (Banking & AUC) to dynamically adjust learning rates.
-* **Math-First AI:** Building CNNs, Transposed Convolutional Layers, DNNs, RNNs, Transformers, and advanced feedback loops using only **NumPy** to master Deep Learning logic.
-
+R-O3 is a mechanistic AI framework that replaces standard stochastic learning with Thermodynamic Homeostasis, snapping weights to a stable 27-phase lattice. The architecture separates long-term weight stability (270° Heavy Space) from high-fidelity predictive readouts (90° Taylor Void) using a 7th-Order Taylor Series to map manifold curvature. By integrating Gibbs Free Energy via a Sin-Wave Master Governor, the model treats data as mechanical force, utilizing Information Stress/Strain and Ultimate Tensile Strength (UTS) logic to govern plastic deformation and crystalline re-solidification.
 ---
 
 ## 💻 Tech Stack
