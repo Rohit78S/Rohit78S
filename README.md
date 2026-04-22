@@ -103,22 +103,3 @@ R-O3 is a mechanistic AI framework that replaces standard stochastic learning wi
 </div>
 
 ---
-
-## 🌟 The Code Behind The Mind
-
-```python
-class RohitResearch:
-    def __init__(self):
-        self.role = "AI Research Engineer"
-        
-        self.systems_languages = ["C++", "Rust", "Zig", "Go", "Java"]
-        self.ai_stack = ["Python", "NumPy", "TensorFlow", "Math"]
-        self.web_stack = ["React", "SQL", "Flask"]
-        self.tools = ["PyCharm", "CLion", "WebStorm", "Colab"]
-        
-        self.current_obsession = "Control Theory in Deep Learning Optimizers"
-    
-    def daily_goal(self):
-        # I don't just use libraries, I rewrite them.
-        return "Inventing algorithms that don't exist yet."
-
