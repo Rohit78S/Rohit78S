@@ -30,6 +30,7 @@ My goal is to bridge the gap between **High-Level AI (Python)** and **Low-Level 
 🔭 **Current Research Focus:**
 
 R-O3 is a mechanistic AI framework that replaces standard stochastic learning with Thermodynamic Homeostasis, snapping weights to a stable 27-phase lattice. The architecture separates long-term weight stability (270° Heavy Space) from high-fidelity predictive readouts (90° Taylor Void) using a 7th-Order Taylor Series to map manifold curvature. By integrating Gibbs Free Energy via a Sin-Wave Master Governor, the model treats data as mechanical force, utilizing Information Stress/Strain and Ultimate Tensile Strength (UTS) logic to govern plastic deformation and crystalline re-solidification.
+
 ---
 
 ## 💻 Tech Stack
